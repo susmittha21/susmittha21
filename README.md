@@ -1,5 +1,5 @@
 
-<h1 Hi 👋, I'm Susmittha</h1>
+<h1> Hi 👋, I'm Susmittha</h1>
 
 <h3>
 CSE Student | Data • EDA • AI 
@@ -32,14 +32,16 @@ CSE Student | Data • EDA • AI
 
 ## 🛠️ Tools & IDEs
 <p>
-  <img src="https://img.icons8.com/color/48/python--v1.png"/>
+  <img src="https://img.icons8.com/color/48/python--v1.png"/> 
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png"/>
-  <img src="https://img.icons8.com/color/48/mysql.png"/>
+  <img src="https://img.icons8.com/color/48/mysql-logo.png"/>
+  <img src="https://img.icons8.com/color/48/power-bi.png"/>
+
   
 </p>
 
 ---
 
 ⭐ Actively exploring **internship opportunities** in  
-**Data Analytics **
+**Data Analytics**
 
