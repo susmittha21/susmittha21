@@ -22,9 +22,7 @@ CSE Student | Data • EDA • AI
   <a href="https://www.linkedin.com/in/susmitthab21/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Susmittha-blue?logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://github.com/susmittha21" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-susmittha21-black?logo=github&logoColor=white" />
-  </a>
+  
 </p>
 
 
