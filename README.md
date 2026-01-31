@@ -7,12 +7,10 @@ CSE Student | Data • EDA • AI
 
 ---
 
-- 🔭 I’m currently working on **SQL-based data analysis projects**.
-- 🌱 I’m currently learning **Advanced SQL and Machine Learning fundamentals**.
+- 🔭 I’m currently working on **EDA projects**.
+- 🌱 I’m currently learning **Machine Learning fundamentals**.
 - 👯 I’m looking to collaborate on **Data Analytics, AI/ML, and automation-related projects**.
 - 🤔 I’m looking for help with **real-world project ideas and industry best practices**.
-- 💬 Ask me about **SQL, Python basics, data analysis, and AI learning paths**.
-- 😄 Pronouns: **She / Her**
 - ⚡ Interested in **Analytics | AI / ML | Automotive AI**
 
 ---
@@ -40,6 +38,5 @@ CSE Student | Data • EDA • AI
 
 ---
 
-⭐ Actively exploring **internship opportunities** in  
-**Data Analytics**
+
 
