@@ -7,7 +7,7 @@ CSE Student | Data • EDA • AI
 
 ---
 
-- 🔭 I’m currently working on **EDA projects**.
+- 🔭 I’m currently working on **ML projects**.
 - 🌱 I’m currently learning **Machine Learning fundamentals**.
 - 👯 I’m looking to collaborate on **Data Analytics, AI/ML, and automation-related projects**.
 - 🤔 I’m looking for help with **real-world project ideas and industry best practices**.
