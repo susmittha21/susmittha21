@@ -28,13 +28,13 @@ CSE Student | Data • EDA • AI
 
 ## 🛠️ Tools & IDEs
 <p>
-  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/> 
+  <img src="https://img.icons8.com/color/48/python--v1.png" alt="Python"/>
   <img src="https://img.icons8.com/color/48/visual-studio-code-2019.png" alt="VS Code"/>
   <img src="https://img.icons8.com/color/48/mysql-logo.png" alt="MySQL"/>
   <img src="https://img.icons8.com/color/48/power-bi.png" alt="Power BI"/>
   <img src="https://img.icons8.com/color/48/tableau-software.png" alt="Tableau"/>
   <img src="https://img.icons8.com/color/48/git.png" alt="Git"/>
-  <img src="https://img.icons8.com/color/48/pytorch.png" alt="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="48" height="48" alt="PyTorch"/>
 </p>
 
 
