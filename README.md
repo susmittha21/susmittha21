@@ -13,16 +13,6 @@ CSE Student | Data • EDA • AI
 - 🤔 I’m looking for help with **real-world project ideas and industry best practices**.
 - ⚡ Interested in **Analytics | AI / ML | Automotive AI**
 
----
-
-## 🔗 Connect with Me
-<p>
-  <a href="https://www.linkedin.com/in/susmitthab21/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Susmittha-blue?logo=linkedin&logoColor=white" />
-  </a>
-  
-</p>
-
 
 ---
 
